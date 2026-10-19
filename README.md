@@ -1,1 +1,3 @@
 This is a fun colorful and exciting beginner-friendly platformer game with a bright blue background, colorful purple platforms, and a football player as the main character. You can jump on the platforms and find a way out by overcoming various obstacles. The controls are simple – you move the character with arrow keys and jump with a space bar. The graphics are nice, the game is easy to play, and the levels are well-designed – making it a great entry-level experience for novice players who want to learn the basics of the platformer genre.
+
+https://sharadnpatel406-commits.itch.io/platformer-game
